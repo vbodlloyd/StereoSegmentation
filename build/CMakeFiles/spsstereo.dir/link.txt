@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -O3 -msse4.2 -std=c++1y    CMakeFiles/spsstereo.dir/SGMStereo.o CMakeFiles/spsstereo.dir/SPSStereo.o CMakeFiles/spsstereo.dir/spsstereo_main.o CMakeFiles/spsstereo.dir/StereoRectifier.o  -o spsstereo -rdynamic -lpng -lopencv_core -lopencv_calib3d -lopencv_imgproc -lopencv_highgui 
